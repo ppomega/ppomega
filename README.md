@@ -37,7 +37,7 @@ reach_me_at: prateekveerbhan@gmail.com
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,springboot,react,nextjs,vue,tailwind,html,css,nodejs,express,postgres,mongodb,redis,docker,aws,git,linux&theme=dark&perline=9" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,spring,react,nextjs,vue,tailwind,nodejs,express,postgres,mongodb,redis,docker,aws,git,linux&theme=dark&perline=9" alt="Tech Stack" />
 </div>
 
 <br>

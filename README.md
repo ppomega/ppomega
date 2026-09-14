@@ -68,16 +68,16 @@ reach_me_at: prateekveerbhan@gmail.com
 <div align="center">
 
 <a href="https://github.com/ppomega/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_ONE&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=VandeTatkal&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ppomega/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_TWO&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=thunderstreams_back&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ppomega/REPO_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_THREE&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=Cloudflare-R2_S3-API&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ppomega/REPO_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_FOUR&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=MyStore&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>

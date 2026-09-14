@@ -67,16 +67,16 @@ reach_me_at: prateekveerbhan@gmail.com
 
 <div align="center">
 
-<a href="https://github.com/ppomega/REPO_ONE">
+<a href="https://github.com/ppomega/VandeTatkal">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=VandeTatkal&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
-<a href="https://github.com/ppomega/REPO_TWO">
+<a href="https://github.com/ppomega/thunderstreams_back">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=thunderstreams_back&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
-<a href="https://github.com/ppomega/REPO_THREE">
+<a href="https://github.com/ppomega/Cloudflare-R2_S3-API">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=Cloudflare-R2_S3-API&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
-<a href="https://github.com/ppomega/REPO_FOUR">
+<a href="https://github.com/ppomega/MyStore">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=MyStore&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 

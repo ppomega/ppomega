@@ -26,14 +26,9 @@
 
 ```yaml
 name: Prateek Veerbhan
-location: Your City, Country
-role: Your Job Title / Student
-current_focus: What you're currently working on
-learning: What you're currently learning
-collaborate_on: Projects you want to collaborate on
-ask_me_about: Your areas of expertise
-fun_fact: Something fun about you
-reach_me_at: your.email@example.com
+location: Faridabad,India
+role: Java Developer
+reach_me_at: prateekveerbhan@gmail.com
 ```
 
 <br>
@@ -42,7 +37,7 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,vue,tailwind,html,css,nodejs,express,postgres,mongodb,redis,docker,aws,git,linux&theme=dark&perline=9" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,springboot,react,nextjs,vue,tailwind,html,css,nodejs,express,postgres,mongodb,redis,docker,aws,git,linux&theme=dark&perline=9" alt="Tech Stack" />
 
 </div>
 

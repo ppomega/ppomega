@@ -42,32 +42,7 @@ reach_me_at: prateekveerbhan@gmail.com
 
 <br>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppomega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppomega&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ppomega&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ppomega&theme=tokyo-night&hide_border=true&radius=10" width="100%"/>
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ppomega&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 <br>
 

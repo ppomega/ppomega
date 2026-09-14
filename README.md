@@ -95,7 +95,7 @@ reach_me_at: your.email@example.com
 <div align="center">
 
 ### LeetCode
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/prateekveerbhan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 
 ### CodeChef
 <img src="https://codechef-readme-stats.vercel.app/YOUR_CODECHEF_USERNAME?theme=dark" alt="CodeChef Stats"/>

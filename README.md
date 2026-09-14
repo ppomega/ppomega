@@ -104,33 +104,12 @@ reach_me_at: your.email@example.com
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
 
 </div>
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ppomega&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
 <br>
-
-## 🔥 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ppomega/ppomega/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>💡 To generate this, add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to a repo named <code>ppomega/ppomega</code>.</sub>
-
-</div>
 
 <br>
 

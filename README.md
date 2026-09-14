@@ -55,13 +55,6 @@ reach_me_at: prateekveerbhan@gmail.com
 
 <br><br>
 
-### CodeChef
-<img src="https://codechef-readme-stats.vercel.app/YOUR_CODECHEF_USERNAME?theme=dark" alt="CodeChef Stats"/>
-
-<sub>⚠️ This CodeChef card service is occasionally flaky/down. If it doesn't render, swap it for a badge-only link below, or try <code>https://cp-badges.vercel.app</code> as an alternative.</sub>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>

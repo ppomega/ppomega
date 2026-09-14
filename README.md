@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20Prateek_Veerbhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:8e54e9,100:2575fc&height=260&section=header&text=Hi%20There,%20I'm%20Prateek%20Veerbhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ppomega">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning+Something+New+%F0%9F%9A%80;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning+Something+New+%F0%9F%9A%80;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,9 +13,10 @@
 <!-- ============================ BADGES ROW ============================ -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ppomega&color=2575fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ppomega?label=Followers&style=for-the-badge&color=6a11cb)
-![Stars](https://img.shields.io/github/stars/ppomega?label=Stars&style=for-the-badge&color=2575fc)
+<img src="https://komarev.com/ghpvc/?username=ppomega&color=2575fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ppomega?label=Followers&style=for-the-badge&color=6a11cb&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/ppomega?label=Stars&style=for-the-badge&color=2575fc&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=8e54e9&label=Profile%20Repos&query=public_repos&url=https://api.github.com/users/ppomega&style=for-the-badge&logo=github" alt="Repos"/>
 
 </div>
 
@@ -24,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Your Name
+name: Prateek Veerbhan
 location: Your City, Country
 role: Your Job Title / Student
 current_focus: What you're currently working on
@@ -41,31 +42,7 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,vue,tailwind,html,css,nodejs,express,postgres,mongodb,redis,docker,aws,git,linux&theme=dark&perline=9" alt="Tech Stack" />
 
 </div>
 
@@ -75,16 +52,26 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppomega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppomega&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppomega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppomega&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ppomega&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ppomega&theme=tokyo-night&hide_border=true&radius=10" width="100%"/>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ppomega&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+## 🏆 GitHub Trophies
 
-<br>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ppomega&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ppomega&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -97,19 +84,20 @@ reach_me_at: your.email@example.com
 ### LeetCode
 <img src="https://leetcard.jacoblin.cool/prateekveerbhan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 
+<br><br>
+
 ### CodeChef
 <img src="https://codechef-readme-stats.vercel.app/YOUR_CODECHEF_USERNAME?theme=dark" alt="CodeChef Stats"/>
 
-<br>
+<sub>⚠️ This CodeChef card service is occasionally flaky/down. If it doesn't render, swap it for a badge-only link below, or try <code>https://cp-badges.vercel.app</code> as an alternative.</sub>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+<br><br>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 
 </div>
-
-<br>
-
-<br>
 
 <br>
 
@@ -118,16 +106,16 @@ reach_me_at: your.email@example.com
 <div align="center">
 
 <a href="https://github.com/ppomega/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_ONE&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_ONE&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ppomega/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_TWO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_TWO&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ppomega/REPO_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_THREE&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_THREE&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ppomega/REPO_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_FOUR&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_FOUR&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
@@ -149,13 +137,13 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://discord.com/users/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 </div>
 
@@ -165,8 +153,8 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ppomega)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ppomega)
+<a href="https://buymeacoffee.com/ppomega"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+<a href="https://github.com/sponsors/ppomega"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 
 </div>
 
@@ -174,7 +162,7 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:8e54e9,100:6a11cb&height=150&section=footer"/>
 
 **Thanks for stopping by! ⭐️ from [ppomega](https://github.com/ppomega)**
 

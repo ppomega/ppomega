@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20YOUR_NAME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ppomega">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning+Something+New+%F0%9F%9A%80;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
@@ -13,9 +13,9 @@
 <!-- ============================ BADGES ROW ============================ -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2575fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6a11cb)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=2575fc)
+![Profile Views](https://komarev.com/ghpvc/?username=ppomega&color=2575fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ppomega?label=Followers&style=for-the-badge&color=6a11cb)
+![Stars](https://img.shields.io/github/stars/ppomega?label=Stars&style=for-the-badge&color=2575fc)
 
 </div>
 
@@ -82,16 +82,38 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppomega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppomega&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ppomega&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ppomega&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+## 🧩 DSA / Competitive Programming Stats
+
+<div align="center">
+
+### LeetCode
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+
+### CodeChef
+<img src="https://codechef-readme-stats.vercel.app/YOUR_CODECHEF_USERNAME?theme=dark" alt="CodeChef Stats"/>
+
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
 
 </div>
 
@@ -101,7 +123,7 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ppomega&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -111,9 +133,9 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ppomega/ppomega/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>💡 To generate this, add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to a repo named <code>YOUR_USERNAME/YOUR_USERNAME</code>.</sub>
+<sub>💡 To generate this, add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to a repo named <code>ppomega/ppomega</code>.</sub>
 
 </div>
 
@@ -123,17 +145,17 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ppomega/REPO_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_ONE&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ppomega/REPO_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_TWO&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/REPO_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ppomega/REPO_THREE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_THREE&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ppomega/REPO_FOUR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppomega&repo=REPO_FOUR&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -171,8 +193,8 @@ reach_me_at: your.email@example.com
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/YOUR_USERNAME)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ppomega)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ppomega)
 
 </div>
 
@@ -182,6 +204,6 @@ reach_me_at: your.email@example.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer"/>
 
-**Thanks for stopping by! ⭐️ from [YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
+**Thanks for stopping by! ⭐️ from [ppomega](https://github.com/ppomega)**
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20Prateek Veerbhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20Prateek_Veerbhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ppomega">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning+Something+New+%F0%9F%9A%80;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
